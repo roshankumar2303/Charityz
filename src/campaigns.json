@@ -1,0 +1,46 @@
+[
+    {
+        "cmpID": "1",
+        "cmpImg": "images/campaign_1.jpg",
+        "cmpTitle": "Help Himmatbhai In His Mission To Educate Hundreds Of Underprivileged Women & Children",
+        "cmpDesc": "Pochabhai Foundation looks after the educational and nutritional needs of underprivileged and marginalized children and women. You can support them and help uplift countless people in India.",
+        "cmpOrganiser": "Pochabhai Foundation",
+        "cmpTarget": 1150000,
+        "cmpCurrent": 650000,
+        "donorCount": 67,
+        "daysLeft": 28
+    },
+    {
+        "cmpID": "2",
+        "cmpImg": "images/campaign_1.jpg",
+        "cmpTitle": "Help Himmatbhai In His Mission To Educate Hundreds Of Underprivileged Women & Children",
+        "cmpDesc": "Pochabhai Foundation looks after the educational and nutritional needs of underprivileged and marginalized children and women. You can support them and help uplift countless people in India.",
+        "cmpOrganiser": "Pochabhai Foundation",
+        "cmpTarget": 1150000,
+        "cmpCurrent": 575000,
+        "donorCount": 67,
+        "daysLeft": 28
+    },
+    {
+        "cmpID": "3",
+        "cmpImg": "images/campaign_1.jpg",
+        "cmpTitle": "Help Himmatbhai In His Mission To Educate Hundreds Of Underprivileged Women & Children",
+        "cmpDesc": "Pochabhai Foundation looks after the educational and nutritional needs of underprivileged and marginalized children and women. You can support them and help uplift countless people in India.",
+        "cmpOrganiser": "Pochabhai Foundation",
+        "cmpTarget": 1150000,
+        "cmpCurrent": 66850,
+        "donorCount": 67,
+        "daysLeft": 28
+    },
+    {
+        "cmpID": "4",
+        "cmpImg": "images/campaign_1.jpg",
+        "cmpTitle": "Help Himmatbhai In His Mission To Educate Hundreds Of Underprivileged Women & Children",
+        "cmpDesc": "Pochabhai Foundation looks after the educational and nutritional needs of underprivileged and marginalized children and women. You can support them and help uplift countless people in India.",
+        "cmpOrganiser": "Pochabhai Foundation",
+        "cmpTarget": 1150000,
+        "cmpCurrent": 66850,
+        "donorCount": 67,
+        "daysLeft": 28
+    }
+]

@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+:root {
+    --theme-col: #DD4A48;
+    --bg-col: white;
+    --light-side: white;
+    --dark-side: darkgrey;
+    --faded: grey;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.card {
+    background-color: var(--bg-col);
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 8px 16px var(--dark-side);
+    min-width: 360px;
+}
+
+/*  BUTTONS  */
+.custom-btn {
+    color: var(--bg-col);
+    background-color: var(--theme-col);
+    box-shadow: 4px 4px 4px var(--dark-side), -4px -4px 4px var(--light-side);
+    border: none;
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    margin: 0 1rem 1rem 0;
+
+}
+
+.custom-btn:hover {
+    box-shadow: 8px 8px 8px var(--dark-side), -8px -8px 8px var(--light-side);
+    transition-duration: 100ms;
+}
+
+.custom-btn:active {
+    box-shadow: 4px 4px 4px var(--dark-side), -4px -4px 4px var(--light-side);
+}
+
+.custom-btn:disabled {
+    box-shadow: none;
+    border: 2px dashed var(--faded);
+    color: var(--faded);
+}
+
+
+/* NAVBAR */
+.navbar {
+    padding: 24px 0 24px 0;
+}
+
+.bg-light {
+    background-color: white !important;
+}
+
+.navbar-brand {
+    font-weight: 900;
+}
+
+.progress {
+    height: 8px;
+    margin-bottom: 16px;
+}
+.progress-bar {
+    background-color: #DD4A48;
+    height: 8px;
+}
+
+.badge {
+    height: 28px;
+    font-size: 16px;
+}
+
+.bg-primary {
+    background-color: var(--theme-col) !important;
+}
+
+.form-control {
+    border: 2px solid var(--theme-col);
+    border-radius: 16px;
+}
