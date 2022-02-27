@@ -11,6 +11,7 @@ const MyDonations = () => {
             amt={donation.amt}
             status={donation.status}
             lastUpdated={donation.lastUpdated}
+            timeline={donation.timeline}
         />
     ))
 }
