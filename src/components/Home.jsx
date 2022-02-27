@@ -23,7 +23,7 @@ const Home = () => {
             <div className="container">
                 <div className="row py-4">
                     <div className="col-md-4">
-                        <div className="card m-2" style={{ minWidth: "18rem", color: "black" }}>
+                        <div className="custom-card m-2" style={{ minWidth: "18rem", color: "black" }}>
                             <div className="card-body">
                                 <h5 className="card-title">About Us</h5>
                                 <p className="card-text">Some text here</p>
@@ -32,7 +32,7 @@ const Home = () => {
                     </div>
 
                     <div className="col-md-4">
-                        <div className="card m-2" style={{ minWidth: "18rem", color: "black" }}>
+                        <div className="custom-card m-2" style={{ minWidth: "18rem", color: "black" }}>
                             <div className="card-body">
                                 <h5 className="card-title">About Us</h5>
                                 <p className="card-text">Some text here</p>
@@ -41,7 +41,7 @@ const Home = () => {
                     </div>
 
                     <div className="col-md-4">
-                        <div className="card m-2" style={{ minWidth: "18rem", color: "black" }}>
+                        <div className="custom-card m-2" style={{ minWidth: "18rem", color: "black" }}>
                             <div className="card-body">
                                 <h5 className="card-title">About Us</h5>
                                 <p className="card-text">Some text here</p>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Register = () => {
     return <div className="container d-flex justify-content-center">
-        <div className="card p-4">
+        <div className="custom-card p-4">
             <form>
                 <h4 className="mb-4">Register</h4>
                 <div className="row">

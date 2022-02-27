@@ -16,7 +16,7 @@ const CampaignDesc = (props) => {
                     </div>
                     <p>{props.daysLeft} Days left | {props.donorCount} Contributors</p>
 
-                    <form>
+                    <form className="py-4">
                         <div className="d-flex">
                         <div className="form-floating">
                             <input type="string" className="form-control" placeholder="Enter amount" id="amtInput" />
