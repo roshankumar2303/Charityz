@@ -2,7 +2,7 @@ import React from "react";
 
 const CampaignDesc = (props) => {
     const progress = ((props.cmpCurrent / props.cmpTarget) * 100) + "%";
-    return <div className="custom-card container" style={{marginTop:"40px"}}>
+    return <div className="custom-card container" style={{marginTop:"20px", marginBottom: "20px"}}>
             <div className="row">
                 <div 
                 className="col-md-6" 

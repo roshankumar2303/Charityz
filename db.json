@@ -57,22 +57,30 @@
                 {
                     "time": "12:30 PM, 17-02-2022",
                     "updateFrom": "Pochabai Foundation",
-                    "desc": "INR 6800 from your donation has been used to purchase a black board for Government Secondary School, Khambhat, Anand, Gujarat."
+                    "desc": "INR 6800 from your donation has been used to purchase a black board for Government Secondary School, Khambhat, Anand, Gujarat.",
+                    "proofImg": "images/campaign_1.jpg",
+                    "proof": true
                 },
                 {
                     "time": "11:30 AM, 16-02-2022",
                     "updateFrom": "Pochabai Foundation",
-                    "desc": "INR 4350 from your donation has been used to purchase text books for 12 girl students of 8th grade."
+                    "desc": "INR 4350 from your donation has been used to purchase text books for 12 girl students of 8th grade.",
+                    "proofImg": "images/cover_bg_1.jpg",
+                    "proof": true
                 },
                 {
                     "time": "12:08 AM, 15-02-2022",
                     "updateFrom": "Pochabai Foundation",
-                    "desc": "We received your donation. Thank you so much for the donation"
+                    "desc": "We received your donation. Thank you so much for the donation",
+                    "proofImg": "",
+                    "proof": false
                 },
                 {
                     "time": "5:37 PM, 14-02-2022",
                     "updateFrom": "CharityZ",
-                    "desc": "Amount successfully received by CharityZ. Thanks for the donation!"
+                    "desc": "Amount successfully received by CharityZ. Thanks for the donation!",
+                    "proofImg": "",
+                    "proof": false
                 }
             ]
         }
