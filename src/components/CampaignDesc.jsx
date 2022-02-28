@@ -3,11 +3,16 @@ import React from "react";
 const CampaignDesc = (props) => {
     const progress = ((props.cmpCurrent / props.cmpTarget) * 100) + "%";
     return <div className="custom-card container" style={{marginTop:"40px"}}>
-        
-            <div className="row" style={{backgroundImage:"url(" + props.cmpImg + ")", backgroundSize:"contain", borderRadius:"16px"}}>
-                <div className="col-md-6" style={{backgroundImage:"linear-gradient(to right, #00000000, #00000000, #ffffffff)"}}>
-                </div>
-                <div className="col-md-6 p-4" style={{ backgroundColor: "white", borderTopRightRadius:"16px", borderBottomRightRadius:"16px"}}>
+            <div className="row">
+                <div 
+                className="col-md-6" 
+                style={{
+                    backgroundImage:"linear-gradient(to right, #00000000, #00000000, #ffffffff), url(" + props.cmpImg + ")", 
+                    backgroundSize:"cover", 
+                    borderRadius:"16px"
+                }}
+                ></div>
+                <div className="col-md-6 p-4">
                     <h3 className="py-4">{props.cmpTitle}</h3>
                     <p>{props.cmpDesc}</p>
                     <p className="lead">{props.cmpCurrent} raised out of {props.cmpTarget}</p>
